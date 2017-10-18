@@ -5,7 +5,7 @@ Este repositorio contiene un modelo de bandera trabajado con display.
 
 La página se mostrará de la siguiente manera:
 
-![Sin titulo](assets/imgs/Captura 1.png)  
+![Sin titulo](assets/imgs/Captura1.png)  
 
 
 #### Herramientas utilizadas:

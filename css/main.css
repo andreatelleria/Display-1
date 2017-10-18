@@ -1,0 +1,20 @@
+/*Utilizamos un selector universal para establecer el valor de box-sizing a border-box en todas las cajas*/
+* {
+  box-sizing: border-box;
+}
+/*Utilizamos el selector por etiqueta div para establecer los valores de heigth, padding, margin y font-family a todos los elementos div*/
+div {
+  height: 100px;
+  padding: 9px;
+  margin: 9px;
+  font-family: "Times New Roman";
+}
+/*Utilizamos el selector de clase .yellow para establecer el background color de ese elemento div en particular*/
+.yellow {
+  background-color: #ffc107;
+}
+/*Utilizamos el selector de clase .gray para establecer el background color y color de texto de ese elemento div en particular*/
+.gray {
+  background-color: #212121;
+  color: white;
+}
